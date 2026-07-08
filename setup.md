@@ -15,6 +15,7 @@ install esp32 by Espressive Systems
 
 ## Step 3: Install Library
 Go to library and search Blynk
+
 install Blynk by Blynk
 
 ## Step 4: Test ESP32 Board
@@ -25,3 +26,10 @@ install Blynk by Blynk
   5. Upload the program and check serial monitor for WiFi ssid
 
 ## Step 5: Test WiFi Connection
+Download wifitest program
+
+[Wifitest](https://github.com/Noraide/iot/blob/main/wifitest.ino)
+
+Edit ssid and password
+
+Upload the program
