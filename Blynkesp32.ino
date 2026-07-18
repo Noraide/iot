@@ -10,7 +10,7 @@ char ssid[] = "TUKAR";
 char pass[] = "TUKAR";
 BlynkTimer timer;
 
-#include "DHT.h"
+/*#include "DHT.h"
 #define DHTPIN D7    
 #define DHTTYPE DHT11   
 DHT dht(DHTPIN, DHTTYPE);*/
